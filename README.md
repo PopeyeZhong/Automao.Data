@@ -1,5 +1,9 @@
 # Automao.Data
 
+该项目已不再维护，请使用 [Zongsoft.Data](https://github.com/Zongsoft/Framework/tree/master/Zongsoft.Data) 开源数据引擎。
+
+-----
+
 建议数据库连接字符串的配置项存放在业务系统的主插件配置文件中，譬如插件目录结构中的 `Automao.SaaS.option` 或 `Automao.Common.option` 配置文件：
 
 - [plugins]
